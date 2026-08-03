@@ -4,6 +4,8 @@
 
 ---
 
+![Watchman](/images/Watchman.jpg)
+
 ## Overview
 
 This repository documents the design, implementation, operation, and ongoing evolution of a professional home network built around **Watchman**, an Ubuntu-based gateway providing VPN services, intelligent routing, DNS management, and network monitoring.
@@ -28,7 +30,7 @@ It provides:
 - LTE routing for corporate devices
 - Local DNS and ad-blocking
 - System monitoring and health checks
-- A platform for continued learning and experimentation
+- A platform for continued learning and experimentationv
 
 ## Project Goals
 
